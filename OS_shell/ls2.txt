@@ -1,0 +1,8 @@
+total 48
+-rw-rw-r-- 1 torefoss torefoss   188 mars  22 21:50 input1.txt
+-rw-rw-r-- 1 torefoss torefoss   188 mars  22 21:50 input2.txt
+-rwxrwxr-x 1 torefoss torefoss     0 mars  22 21:52 ls2.txt
+-rwxrwxr-x 1 torefoss torefoss  1338 mars  22 21:52 ls.txt
+-rw-rw-r-- 1 torefoss torefoss   144 mars  22 21:50 shellscript.sh
+-rwxrwxr-x 1 torefoss torefoss 22152 mars  22 21:51 wish
+-rw-rw-r-- 1 torefoss torefoss  6059 mars  22 21:51 wish.c
